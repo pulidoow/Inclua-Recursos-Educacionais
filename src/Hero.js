@@ -59,7 +59,7 @@ export default function Hero() {
 
                 {/* Description */}
                 <div className='z-10 text-lg rounded-2xl md:shadow-xl shadow-gray-100 p-4 bg-opacity-90 leading-relaxed bg-white'>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi ad dolore eius molestiae voluptatibus pariatur. Soluta doloribus ex eaque fugit, magni repellat quasi animi facere?</p>
+                    <p>Bem-vindo(a) ao Inclua! Somos uma empresa comprometida em desenvolver produtos e soluções inovadoras na metodologia de design universal, com o objetivo de promover a aprendizagem inclusiva para pessoas com ou sem deficiência.</p>
                 </div>
 
                 {/* Button */}
