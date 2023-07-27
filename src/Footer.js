@@ -11,10 +11,18 @@ export default function Footer() {
             <div className='flex flex-col items-center'>
                 <h1 className='text-3xl text-orange-400'>Entre em contato 📬</h1>
                 <div className='flex mt-8 h-20'>
-                    <FacebookLogo className='fill-sky-400 w-8 mx-8' />
-                    <InstagramLogo className='fill-sky-400 w-8 mx-8' />
-                    <LinkedinLogo className='fill-sky-400 w-8 mx-8' />
-                    <EmailLogo className='fill-sky-400 w-8 mx-8' />
+                    <a
+                        href='https://br.linkedin.com/company/inclua?trk=public_profile_topcard-current-company'
+                        target='_blank'
+                    >
+                        <LinkedinLogo className='fill-sky-400 w-8 mx-8' />
+                    </a>
+
+                    <a
+                        href='mailto:rodrigoparce@gmail.com'
+                    >
+                        <EmailLogo className='fill-sky-400 w-8 mx-8' />
+                    </a>
                 </div>
             </div>
 
