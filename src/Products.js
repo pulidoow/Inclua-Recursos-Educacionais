@@ -17,7 +17,10 @@ export default function Products() {
             <div className='flex flex-wrap justify-center my-auto'>
 
                 {/* Product */}
-                <a className='transition duration-200 m-10 hover:drop-shadow-[-20px_-20px_15px_rgba(255,255,255,1)]' href="https://tabela-show-v2.vercel.app/">
+                <a
+                    className='transition duration-200 m-10 hover:drop-shadow-[-20px_-20px_15px_rgba(255,255,255,1)]' href="https://tabela-show-v2.vercel.app/"
+                    target='_blank'
+                >
                     <div className='transition duration-200 bg-white max-w-xl rounded-3xl shadow-xl hover:drop-shadow-[15px_15px_20px_rgba(0,0,0,0.10)]'>
 
                         {/* Image */}
