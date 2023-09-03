@@ -32,7 +32,7 @@ export default function Products() {
                         {/* Description */}
                         <div className='p-8 max-w-full'>
                             <h1 className='font-bold text-2xl text-orange-400 mb-3'>E-Table 🧪</h1>
-                            <p className='leading-relaxed text-slate-900'>Tabela periódica em 3 dimensões, desenolvida em Design Universal para o ensino da química para todos</p>
+                            <p className='leading-relaxed text-slate-900'>Tabela Periódica em 3 dimensões, desenvolvida em Desenho Universal para Aprendizagem para o ensino da química para todos</p>
                         </div>
 
                     </div>
