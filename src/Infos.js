@@ -20,10 +20,10 @@ export default function Hero() {
             <div className='flex items-center'>
                 <div className='max-w-3xl '>
                     <div className='text-white drop-shadow-sm my-4'>
-                        <h1 className='text-5xl font-bold text-amber-400'>Recursos Educacionais</h1>
+                        <h1 className='text-5xl font-bold text-amber-400'>Desenho Universal para Aprendizagem - DUA</h1>
                     </div>
                     <div className='text-lg'>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi ad dolore eius molestiae voluptatibus pariatur. Soluta doloribus ex eaque fugit, magni repellat quasi animi facere?</p>
+                        <p>O Desenho Universal para Aprendizagem é uma abordagem pedagógica que almeja projetar currículos e ambientes de aprendizagem de forma flexível, considerando a diversidade de alunos. Os seus princípios garantem a igualdade de oportunidades de aprendizagem, promovem a participação ativa de todos os estudantes e permitem que as necessidades individuais sejam atendidas, garantindo uma educação inclusiva e acessível.</p>
                     </div>
                 </div>
 
